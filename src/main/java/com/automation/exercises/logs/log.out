@@ -1,0 +1,29 @@
+2024-01-02 01:01:672 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 01:01:588 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 01:01:109 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 01:01:33 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 01:01:204 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 01:01:686 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 01:01:128 INFO  ShoppingCartPage :52 - Getting welcome text from shopping cart page: [[ChromeDriver: chrome on windows (22eae430a5527a5ab662aa9f614e9715)] -> xpath: //li[@class='active']]
+2024-01-02 01:01:700 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 01:01:244 INFO  ShoppingCartPage :52 - Getting welcome text from shopping cart page: [[ChromeDriver: chrome on windows (bce501bbd03f9079a3b0ddfb3bfaf1dd)] -> xpath: //li[@class='active']]
+2024-01-02 01:01:324 INFO  ShoppingCartPage :58 - Clicking on proceed to checkout button: [[ChromeDriver: chrome on windows (bce501bbd03f9079a3b0ddfb3bfaf1dd)] -> xpath: //a[normalize-space()='Proceed To Checkout']]
+2024-01-02 01:01:730 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 01:01:501 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 01:01:807 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 01:01:627 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 01:01:883 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 01:01:657 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 01:01:810 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 01:01:527 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 01:01:869 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 01:01:197 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 01:01:642 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 01:01:754 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 01:01:485 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 01:01:825 INFO  ShoppingCartPage :78 - Getting Stylish Dress from shopping cart: [[[ChromeDriver: chrome on windows (cbb2f55a7fc976204aff1d34f3180d5b)] -> xpath: //td[@class = 'cart_description']/h4/a]]
+2024-01-02 01:01:50 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 01:01:197 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 01:01:690 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 01:01:28 INFO  ShoppingCartPage :52 - Getting welcome text from shopping cart page: [[ChromeDriver: chrome on windows (a14e61776d3b776e3bda43c5e4f90613)] -> xpath: //li[@class='active']]
+2024-01-02 01:01:105 INFO  ShoppingCartPage :58 - Clicking on proceed to checkout button: [[ChromeDriver: chrome on windows (a14e61776d3b776e3bda43c5e4f90613)] -> xpath: //a[normalize-space()='Proceed To Checkout']]
